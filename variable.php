@@ -3,3 +3,5 @@
 $name = 'ashraful';
 
 echo $name;
+
+?>
