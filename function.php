@@ -1,7 +1,8 @@
 <?php
 
-function sayHi(){
-   echo "hello";
+function sayHi($name){
+
+   echo $name;
 }
 
-sayHi();
+sayHi("Ashraful");
